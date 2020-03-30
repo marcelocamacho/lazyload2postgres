@@ -8,9 +8,9 @@
 ### End init info
 
 HOST='localhost'
-USUARIO='camacho'
-PASSWORD='pkl492xt'
-TABLESPACE='marcelo'
+USUARIO='postgres'
+PASSWORD='postgres'
+TABLESPACE='public'
 BANCO='educacao'
 SCHEMA='public'
 ANO="$@"
